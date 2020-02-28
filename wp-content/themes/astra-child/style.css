@@ -116,14 +116,11 @@
 
 }
 
-@media only screen and (min-width: 400px) {
-    .ast-small-footer-section.ast-small-footer-section-2.ast-small-footer-section-equally.ast-col-md-6.ast-col-xs-12 {
-  margin-left:0px;
-  width:400px;
-  display:none;
-}
+@media only screen and (min-width: 600px) {
+ 
    .site-logo-img {
-    margin-top: 0px;
+    margin-top: -5px;
+    margin-left:30px;
     opacity: 1;
 }
 .main-header-bar-wrap {
